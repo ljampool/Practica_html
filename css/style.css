@@ -1,0 +1,13 @@
+body{
+    margin: 0 auto;
+    border: solid red 1px;
+    width: 960px;
+}
+
+h1{
+    font-size: 36px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+    color: #1098ad;
+}
